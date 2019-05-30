@@ -1,0 +1,11 @@
+Name:  Promit
+
+Id:  082
+
+Intake:  29
+
+Section:  2
+
+Mail id:  promit@lios.co
+
+Password:  123

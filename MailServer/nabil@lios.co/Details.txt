@@ -1,0 +1,11 @@
+Name:  Nabil
+
+Id:  081
+
+Intake:  29
+
+Section:  2
+
+Mail id:  nabil@lios.co
+
+Password:  123
